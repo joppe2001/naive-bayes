@@ -1,4 +1,3 @@
-```markdown
 # Naive Bayes Classification
 
 This document outlines the process of using the Naive Bayes classification method to predict user purchases from social network ads. The dataset `Social_Network_Ads.csv` contains user information such as age and estimated salary, along with a purchase decision.
@@ -79,4 +78,3 @@ The confusion matrix and the accuracy score give us insight into the number of c
 Naive Bayes is a simple yet powerful algorithm for classification based on Bayes' theorem with an assumption of independence among predictors. In this case, it is used to predict whether users purchased based on their age and estimated salary.
 
 The Python code provided walks through the process of preparing the data, training the model, and evaluating its performance with a confusion matrix and accuracy score.
-```
